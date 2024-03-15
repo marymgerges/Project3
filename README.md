@@ -10,5 +10,9 @@
 
 ### Three or four screenshots of relevant, “inspiring” visualizations that show your creative ideas (visualization track only):
 
+
 ### Sketch of the final design--any visual representation of how you see your visualization being laid out (a photo of an actual sketch, a slide from Google Slides, Canva, Figma, etc.):
-    
+
+
+### Link to GitHub Repository:
+###### https://github.com/marymgerges/Project3.git
