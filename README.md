@@ -1,6 +1,6 @@
 # Project 3
 
-## Outline
+## Proposal
 
 ### Brief articulation of your chosen topic and rationale:
 ###### Animal Shelter Intakes and Outcomes
