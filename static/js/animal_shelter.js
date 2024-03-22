@@ -42,4 +42,4 @@ function createMarkers(response) {
   createMap(markers);
 }
 // Call JSON File
-d3.json("../data/animal_data.json").then(createMarkers);
+d3.json("static/js/animal_data.json").then(createMarkers);
