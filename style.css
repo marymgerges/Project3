@@ -1,0 +1,16 @@
+/* CSS styles for the map container */
+#map {
+    height: 500px; /* Adjust the height as needed */
+    width: 100%; /* Make the map container fill the entire width */
+  }
+  
+  /* CSS styles for the filter elements */
+  #filters {
+    margin-bottom: 20px;
+  }
+  
+  /* CSS styles for the select elements */
+  select {
+    margin-right: 10px;
+  }
+  
