@@ -118,7 +118,7 @@ function createMarkers(data) {
 }
 
 // Perform an API call to get the data and populate filters
-d3.json("../data/animal_data.json").then(data => {
+d3.json("js/animal_data.json").then(data => {
   populateFilters(data);
   createMarkers(data);
 });
@@ -126,21 +126,21 @@ d3.json("../data/animal_data.json").then(data => {
 // Event listeners to handle filter changes
 document.getElementById("year").addEventListener("change", function() {
   selectedYear = this.value;
-  d3.json("../data/animal_data.json").then(data => {
+  d3.json("js/animal_data.json").then(data => {
     createMarkers(filterData(data));
   });
 });
 
 document.getElementById("animalType").addEventListener("change", function() {
   selectedAnimalType = this.value;
-  d3.json("../data/animal_data.json").then(data => {
+  d3.json("js/animal_data.json").then(data => {
     createMarkers(filterData(data));
   });
 });
 // Event listener to handle filter change for sex
 document.getElementById("sex").addEventListener("change", function() {
   selectedSex = this.value; // Update selected sex
-  d3.json("../data/animal_data.json").then(data => {
+  d3.json("js/animal_data.json").then(data => {
     createMarkers(filterData(data)); // Apply filtering and recreate markers
   });
 });
