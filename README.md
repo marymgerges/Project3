@@ -21,8 +21,6 @@
 ![image](https://github.com/marymgerges/Project3/assets/56358876/a948cb9d-e602-4562-9cbb-9e3852a37803)
 
 
-### Sketch of the final design--any visual representation of how you see your visualization being laid out (a photo of an actual sketch, a slide from Google Slides, Canva, Figma, etc.):
-
 
 ### Link to GitHub Repository:
 ###### https://github.com/marymgerges/Project3.git
